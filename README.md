@@ -1,8 +1,8 @@
 # TXACC - The Resource Center 
 
-## How to navigate information in this repository: 
+## *Note: How to navigate information in this repository: 
 
-In order to understand this project in-depth, we recommend to navigate the information in this repository using the following order:
+We recommend navigating the information in this repository using the following order:
   
 1. MAVDEV x TXACC: An overview about the team, our client, and the project  
 2. Charter Report: Include      
