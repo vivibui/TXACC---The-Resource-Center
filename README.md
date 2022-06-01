@@ -14,11 +14,11 @@ We recommend navigating the information in this repository using the following o
 
 ## 1. About us - Team MAVDEV 
 
-Maria Frausto - *Business Analyst*<br/>
-Michael Gurch - *Developer*<br/>
-Ammar Lokhandwala - *Developer*<br/>
-Victoria Sheraden - *Business Analyst*<br/>
-Vivian Bui - *Project Manager*<br/>
+**M**aria Frausto - *Business Analyst*<br/>
+**M**ichael Gurch - *Developer*<br/>
+**A**mmar Lokhandwala - *Developer*<br/>
+**V**ictoria Sheraden - *Business Analyst*<br/>
+**V**ivian Bui - *Project Manager*<br/>
   
 
 ## 2. TXACC Background and Project Overview 
