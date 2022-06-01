@@ -42,3 +42,16 @@ The leadership team and major prospective admins of the platform will find the R
 #### 3.   Operations  
  
 The Resource Center will be the centralized database for all questions related to clinics’ training and guidelines where non-management members can visit and search for the information needed. This fastens the communication and operations across teams as information can be searched and issues can be quickly resolved through the platform. For end-users – or participating clinics – the platform will accelerate their communication with TXACC and other in-network members, ease their process of information navigation, and provide them with timely support and toolkits for better performance and experience of providing care.
+
+## 3. Project Timeline
+  
+2/22 - 3/30: Inception <br/>
+3/30: Sprint Kick-off <br/>
+3/30 - 5/5: Sprint <br/>
+5/6 - 5/12: Project Wrap-up <br/>
+  
+Project Tracking is conducted using Gantt Chart. During Sprint, progress is calculated by the % of tasks completed for each user story. <br/>
+  
+## 4. Questions 
+  
+Please reach out for any questions. 
