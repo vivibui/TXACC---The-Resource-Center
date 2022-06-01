@@ -1,16 +1,16 @@
 # TXACC - The Resource Center 
 
-### *How to navigate information in this repository* 
+### How to navigate information in this repository
 
-*We recommend navigating the information in this repository using the following order:*
+We recommend navigating the information in this repository using the following order:
   
-###### *1. MAVDEV x TXACC: An overview about the team, our client, and the project* 
-###### *2. Charter Report: Include*     
-*(1) information about the team (MAVDEV), the client (TXACC), and the project (The Resource Center)*     
+1. MAVDEV x TXACC: An overview about the team, our client, and the project* 
+2. Charter Report: Include 
+*(1) information about the team (MAVDEV), the client (TXACC), and the project (The Resource Center)*
 *(2) all the analysis and planning formed during the Inception phase*
-*2. Final Report: Include all the detailed development progress and planning formed at the end of Sprint*
-###### *3. Admin, Developer, and User Materials: Guides for prospective admins, developers, and users delivered to TXACC at the close of the project*
-###### *4. Meetings: All meeting agendas and documents used during meetings*
+2. Final Report: Include all the detailed development progress and planning formed at the end of Sprint
+3. Admin, Developer, and User Materials: Guides for prospective admins, developers, and users delivered to TXACC at the close of the project*
+4. Meetings: All meeting agendas and documents used during meetings
 
 ## 1. About us - Team MAVDEV 
 
