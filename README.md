@@ -8,8 +8,8 @@ We recommend navigating the information in this repository using the following o
 2. **Charter Report:** Include 
 (1) information about the team (MAVDEV), the client (TXACC), and the project (The Resource Center); 
 (2) all the analysis and planning formed during the Inception phase
-2. **Final Report:** Include all the detailed development progress and planning formed at the end of Sprint
-. **Meetings:** All meeting agendas and documents used during meetings
+2. **Final Report:** Include all the detailed development progress and planning formed at the end of Sprint<br/>
+3. **Meetings:** All meeting agendas and documents used during meetings<br/>
 
 ## 1. About us - Team MAVDEV 
 
