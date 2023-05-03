@@ -30,7 +30,7 @@ Texas Association of Charitable Clinics (TXACC) is a private, non-profit organiz
 
 The Resource Center, as a result, is part of TXACC’s efforts to ease the process of navigating resources for their clinic members and empower the conversations between members and TXACC’s leaders. The proposed Resource Center system will affect the organization in three main aspects: strategy, management, and operations. 
 
-#### 1.   Strategic 
+#### 1.   Strategy
  
 With the presence of the Resource Center, participating clinic members can easily get access to learning materials and collaborative tool kits including working templates, discussion room/ group chat, surveys/polls, live videos, how-to-guides, and presentations that connect the members’ conversations and enhance their skillsets in providing high-quality and low-cost care to the underserved Texans. The Resource Center will be a strategically vital platform that helps fulfill TXACC’s main mission of ensuring statewide charitable clinics across Texas have adequate tools for the best possible quality care to those who need it most.
  
